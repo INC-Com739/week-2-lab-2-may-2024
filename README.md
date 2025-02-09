@@ -22,7 +22,7 @@ A simple HTML page about me and my hobby.
 - [x] Create about.html
 - [x] Create 2 lists
 - [x] Add a tags to link the pages together
-- [ ] Review pages for errors (missing closing tags or missing characters like = " or &gt;)
+- [x] Review pages for errors (missing closing tags or missing characters like = " or &gt;)
 
 ### Bonus and Extension
 
